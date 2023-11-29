@@ -24,8 +24,7 @@ int main()
      if(x1<0)
         n1++;
      if(x1==0)
-        z++;
-    continue;}
+        z++;}
    else
     break;
    } while(1);
